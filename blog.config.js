@@ -20,7 +20,7 @@ const BLOG = {
   AUTHOR: process.env.NEXT_PUBLIC_AUTHOR || '社会主义接班人', // 您的昵称 例如 tangly1024
   BIO: process.env.NEXT_PUBLIC_BIO || '一个无产主义者🍚', // 作者简介
   LINK: process.env.NEXT_PUBLIC_LINK || 'https://www.xiaohetao77.top', // 网站地址
-  KEYWORDS: process.env.NEXT_PUBLIC_KEYWORD || '微发泡, Micro-Foaming', // 网站关键词 英文逗号隔开
+  KEYWORDS: process.env.NEXT_PUBLIC_KEYWORD || '中化石化销售有限公司,战略与运营管理部,党支部,组织生活', // 网站关键词 英文逗号隔开
 
   // 社交链接，不需要可留空白，例如 CONTACT_WEIBO:''
   CONTACT_EMAIL: process.env.NEXT_PUBLIC_CONTACT_EMAIL || 'jinhua03@sinochem.com', // 邮箱地址 例如mail@tangly1024.com
